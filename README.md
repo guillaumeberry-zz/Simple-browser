@@ -18,13 +18,13 @@ The browser elements come in 3 differents style:
 Here is a preview of those 3 style
 
 **Style A - Neutral** 
-![Style A - Neutral](img/preview-A.png)
+![Style A - Neutral](https://github.com/guillaumeberry/Simple-browser/raw/master/img/preview-A.png)
 
 **Style B - Smooth**
-![Style B - Smooth](img/preview-B.png)
+![Style B - Smooth](https://github.com/guillaumeberry/Simple-browser/raw/master/img/preview-B.png)
 
 **Style C - Ghost**
-![Style C - Ghost](img/preview-C.png)
+![Style C - Ghost](https://github.com/guillaumeberry/Simple-browser/raw/master/img/preview-C.png)
 
 # Illustrator file
 
