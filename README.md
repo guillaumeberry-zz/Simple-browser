@@ -44,3 +44,7 @@ This file is composed of **3 layers**:
 # The Sketch file (coming soon…)
 
 This file will contain hopefully the same content as the Illustrator one! Stay tuned…
+
+---
+
+Last edition: Dec. 5th 2014
